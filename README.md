@@ -1,2 +1,2 @@
 # CS2
-#A Project I made for my Foundations of Computing Class
+A Project I made for my Foundations of Computing Class
